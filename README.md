@@ -18,7 +18,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 _Helpful to write SNMP applications._
 
 ### C/C++
-### Python
+- [net-snmp](http://www.net-snmp.org/) - A suite of software for using and deploying the SNMP protocol (v1, v2c and v3 and the AgentX subagent protocol). Contains also Python bindings.
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp)
 
@@ -32,8 +32,27 @@ _Helpful to write SNMP applications._
 
 ## Tools
 _You use these to work with SNMP easier._
-### GUIs
+
 ### CLIs
+- [encode_keychange](http://www.net-snmp.org/) - Produces the KeyChange string for SNMPv3 (part of net-snmp).
+- [snmptranslate](http://www.net-snmp.org/) - Translates MIB OID names between numeric and textual forms (part of net-snmp).
+- [snmpget](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GET requests (part of net-snmp).
+- [snmpgetnext](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GETNEXT requests (part of net-snmp).
+- [snmpbulkget](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GETBULK requests (part of net-snmp).
+- [snmpwalk](http://www.net-snmp.org/) - Retrieves a subtree of management values using SNMP GETNEXT requests (part of net-snmp).
+- [snmpbulkwalk](http://www.net-snmp.org/) - Retrieves a subtree of management values using SNMP GETBULK requests (part of net-snmp).
+- [snmpset](http://www.net-snmp.org/) - Communicates with a network entity using SNMP SET requests (part of net-snmp).
+- [snmptrap](http://www.net-snmp.org/) - Sends SNMP TRAP or INFORM notification messages (part of net-snmp).
+- [snmpd](http://www.net-snmp.org/) - An SNMP agent that responds to SNMP requests for a given host (part of net-snmp).
+- [snmptrapd](http://www.net-snmp.org/) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them (part of net-snmp).
+- [snmptest](http://www.net-snmp.org/) - Communicates with a network entity using SNMP requests (part of net-snmp).
+- [snmpusm](http://www.net-snmp.org/) - Manipulates the SNMPv3 User-based-security user table (part of net-snmp).
+- [snmpvacm](http://www.net-snmp.org/) - Manipulates the SNMPv3 View-based-access-control-module configuration tables (part of net-snmp).
+- [snmpdf](http://www.net-snmp.org/) - Displays disk information like the unix df tool using information collected from SNMP (part of net-snmp).
+- [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code (part of net-snmp).
+
+### GUIs
+- [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
 
 **[⬆ back to top](#contents)**
 
