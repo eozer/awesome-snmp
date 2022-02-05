@@ -38,6 +38,11 @@ _Helpful to write SNMP applications._
 - [node-snmpjs](https://github.com/joyent/node-snmpjs) - This package provides a toolkit for SNMP agents and management applications in Node.js.
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
 
+### PHP
+### Python
+### Ruby
+### Rust
+
 **[⬆ back to top](#contents)**
 
 ## Tools
