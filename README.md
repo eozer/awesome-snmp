@@ -26,7 +26,7 @@ _Helpful to write SNMP applications._
 
 ### C#
 ### Go
-- [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp)
+- [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
 ### Java
 - [SNMP4J](https://www.agentpp.com/api/java/snmp4j.html) - SNMP4J is an enterprise class, free open source, and state-of-the-art SNMP v1/2c/v3 implementation for Java™.
