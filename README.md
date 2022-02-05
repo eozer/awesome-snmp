@@ -22,6 +22,9 @@ _Helpful to write SNMP applications._
 - [SNMP++](https://www.agentpp.com/api/cpp/snmp_pp.html) - BSD licensed SNMP implemention from HP. Supports SNMP v1/2c/v3, thread-safety, and many more.
 - [AGENT++](https://www.agentpp.com/api/cpp/agent_pp.html) - The AGENT++ C++ framework provides a complete tri-lingual SNMP v1/2c/3 protocol engine and dispatcher for the development of SNMP agents. Apache licensed.
 - [AgentX++](https://www.agentpp.com/api/cpp/agentx_pp.html) - The AgentX++ C++ framework provides a complete AgentX protocol (RFC 2741) implementation that adds AgentX master and sub-agent support to AGENT++ (`Commercial`).
+- [openSNMP](https://sourceforge.net/projects/opensnmp/) - BSD licensed multi-threaded implementation of SNMPv3.
+
+### C#
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp)
 
