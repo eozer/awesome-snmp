@@ -33,6 +33,7 @@ _Helpful to write SNMP applications._
 - [SNMP4J-Agent](https://www.agentpp.com/api/java/snmp4jagent.html) - SNMP4J-Agent is a Java™ API on top of the core SNMP4J API for the development of SNMP agents (command responders).
 
 ### JavaScript
+- [node-net-snmp](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 - [node-snmp-native](https://github.com/calmh/node-snmp-native) -  Native JavaScript SNMP library for Node.js.
 - [node-snmpjs](https://github.com/joyent/node-snmpjs) - This package provides a toolkit for SNMP agents and management applications in Node.js.
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
