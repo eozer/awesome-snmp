@@ -19,11 +19,17 @@ _Helpful to write SNMP applications._
 
 ### C/C++
 - [net-snmp](http://www.net-snmp.org/) - A suite of software for using and deploying the SNMP protocol (v1, v2c and v3 and the AgentX subagent protocol). Contains also Python bindings.
+- [SNMP++](https://www.agentpp.com/api/cpp/snmp_pp.html) - BSD licensed SNMP implemention from HP. Supports SNMP v1/2c/v3, thread-safety, and many more.
+- [AGENT++](https://www.agentpp.com/api/cpp/agent_pp.html) - The AGENT++ C++ framework provides a complete tri-lingual SNMP v1/2c/3 protocol engine and dispatcher for the development of SNMP agents. Apache licensed.
+- [AgentX++](https://www.agentpp.com/api/cpp/agentx_pp.html) - The AgentX++ C++ framework provides a complete AgentX protocol (RFC 2741) implementation that adds AgentX master and sub-agent support to AGENT++ (`Commercial`).
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp)
 
-### Node.js
-- [node-net-snmp](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP).
+### Java
+- [SNMP4J](https://www.agentpp.com/api/java/snmp4j.html) - SNMP4J is an enterprise class, free open source, and state-of-the-art SNMP v1/2c/v3 implementation for Java™.
+- [SNMP4J-Agent](https://www.agentpp.com/api/java/snmp4jagent.html) - SNMP4J-Agent is a Java™ API on top of the core SNMP4J API for the development of SNMP agents (command responders).
+
+### JavaScript
 - [node-snmp-native](https://github.com/calmh/node-snmp-native) -  Native JavaScript SNMP library for Node.js.
 - [node-snmpjs](https://github.com/joyent/node-snmpjs) - This package provides a toolkit for SNMP agents and management applications in Node.js.
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
@@ -50,9 +56,12 @@ _You use these to work with SNMP easier._
 - [snmpvacm](http://www.net-snmp.org/) - Manipulates the SNMPv3 View-based-access-control-module configuration tables (part of net-snmp).
 - [snmpdf](http://www.net-snmp.org/) - Displays disk information like the unix df tool using information collected from SNMP (part of net-snmp).
 - [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code (part of net-snmp).
+- [SNMP4JCLT](https://www.agentpp.com/tools/snmp4jclt.html) - Use the SNMP4J Command Line Tool (CLT) to send SNMPv1/v2c/v3 requests and traps to a target with IPv4 or v6 based UDP, TCP, or TLSv1,2 transport (`Commercial`).
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
+- [MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
+- [MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test&debug, monitor, and discover SNMPv1/2c/3 entities.
 
 **[⬆ back to top](#contents)**
 
