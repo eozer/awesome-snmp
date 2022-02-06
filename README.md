@@ -25,6 +25,9 @@ _Helpful to write SNMP applications._
 - [openSNMP](https://sourceforge.net/projects/opensnmp/) - BSD licensed multi-threaded implementation of SNMPv3.
 
 ### C#
+- [sharpSNMP](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+- [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
@@ -69,8 +72,9 @@ _You use these to work with SNMP easier._
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
-- [MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
-- [MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test&debug, monitor, and discover SNMPv1/2c/3 entities.
+- [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
+- [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test&debug, monitor, and discover SNMPv1/2c/3 entities.
+- [sharpsnmp/SNMP Pro](https://www.sharpsnmp.com/) - A family of .NET based SNMP products, including the commercial MIB Compiler, MIB Assembly, and the open source Library.
 
 **[⬆ back to top](#contents)**
 
