@@ -78,6 +78,7 @@ _You use these to work with SNMP easier._
 - [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
 - [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test&debug, monitor, and discover SNMPv1/2c/3 entities.
 - [sharpsnmp/SNMP Pro](https://www.sharpsnmp.com/) - A family of .NET based SNMP products, including the commercial MIB Compiler, MIB Assembly, and the open source Library.
+- [paessler/snmptester](https://www.paessler.com/tools/snmptester) - This tool enables you to debug SNMP activities to find communication and/or data issues in SNMP monitoring configurations. Windows.
 
 **[⬆ back to top](#contents)**
 
