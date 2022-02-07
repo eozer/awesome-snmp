@@ -72,6 +72,8 @@ _You use these to work with SNMP easier._
 - [snmpdf](http://www.net-snmp.org/) - Displays disk information like the unix df tool using information collected from SNMP (part of net-snmp).
 - [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code (part of net-snmp).
 - [SNMP4JCLT](https://www.agentpp.com/tools/snmp4jclt.html) - Use the SNMP4J Command Line Tool (CLT) to send SNMPv1/v2c/v3 requests and traps to a target with IPv4 or v6 based UDP, TCP, or TLSv1,2 transport (`Commercial`).
+- [libsmi tools](https://www.ibr.cs.tu-bs.de/projects/libsmi/) - Applications built on top of libsmi and an sh/awk script that are integrated with the libsmi distribution.
+  - [smilint](https://www.ibr.cs.tu-bs.de/projects/libsmi/smilint.html) - This is used to check MIB or PIB modules for syntax errors and semantics at some degree. SMIv1/v2 style MIB modules as well as SPPI PIB modules are supported.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
