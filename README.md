@@ -55,25 +55,30 @@ _Helpful to write SNMP applications._
 _You use these to work with SNMP easier._
 
 ### CLIs
-- [encode_keychange](http://www.net-snmp.org/) - Produces the KeyChange string for SNMPv3 (part of net-snmp).
-- [snmptranslate](http://www.net-snmp.org/) - Translates MIB OID names between numeric and textual forms (part of net-snmp).
-- [snmpget](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GET requests (part of net-snmp).
-- [snmpgetnext](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GETNEXT requests (part of net-snmp).
-- [snmpbulkget](http://www.net-snmp.org/) - Communicates with a network entity using SNMP GETBULK requests (part of net-snmp).
-- [snmpwalk](http://www.net-snmp.org/) - Retrieves a subtree of management values using SNMP GETNEXT requests (part of net-snmp).
-- [snmpbulkwalk](http://www.net-snmp.org/) - Retrieves a subtree of management values using SNMP GETBULK requests (part of net-snmp).
-- [snmpset](http://www.net-snmp.org/) - Communicates with a network entity using SNMP SET requests (part of net-snmp).
-- [snmptrap](http://www.net-snmp.org/) - Sends SNMP TRAP or INFORM notification messages (part of net-snmp).
-- [snmpd](http://www.net-snmp.org/) - An SNMP agent that responds to SNMP requests for a given host (part of net-snmp).
-- [snmptrapd](http://www.net-snmp.org/) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them (part of net-snmp).
-- [snmptest](http://www.net-snmp.org/) - Communicates with a network entity using SNMP requests (part of net-snmp).
-- [snmpusm](http://www.net-snmp.org/) - Manipulates the SNMPv3 User-based-security user table (part of net-snmp).
-- [snmpvacm](http://www.net-snmp.org/) - Manipulates the SNMPv3 View-based-access-control-module configuration tables (part of net-snmp).
-- [snmpdf](http://www.net-snmp.org/) - Displays disk information like the unix df tool using information collected from SNMP (part of net-snmp).
-- [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code (part of net-snmp).
+- [net-snmp tools](http://www.net-snmp.org/) - The applications listed here are part of net-snmp.
+  - [encode_keychange](http://www.net-snmp.org/docs/man/encode_keychange.html) - Produces the KeyChange string for SNMPv3.
+  - [snmptranslate](http://www.net-snmp.org/docs/man/snmptranslate.html) - Translates MIB OID names between numeric and textual forms.
+  - [snmpget](http://www.net-snmp.org/docs/man/snmpget.html) - Communicates with a network entity using SNMP GET requests.
+  - [snmpgetnext](http://www.net-snmp.org/docs/man/snmpgetnext.html) - Communicates with a network entity using SNMP GETNEXT requests.
+  - [snmpbulkget](http://www.net-snmp.org/docs/man/snmpbulkget.html) - Communicates with a network entity using SNMP GETBULK requests.
+  - [snmpwalk](http://www.net-snmp.org/docs/man/snmpwalk.html) - Retrieves a subtree of management values using SNMP GETNEXT requests.
+  - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - Retrieves a subtree of management values using SNMP GETBULK requests.
+  - [snmpset](http://www.net-snmp.org/docs/man/snmpset.html) - Communicates with a network entity using SNMP SET requests.
+  - [snmptrap](http://www.net-snmp.org/docs/man/snmptrap.html) - Sends SNMP TRAP or INFORM notification messages.
+  - [snmpd](http://www.net-snmp.org/docs/man/snmpd.html) - An SNMP agent that responds to SNMP requests for a given host.
+  - [snmptrapd](http://www.net-snmp.org/docs/man/snmptrapd.html) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them.
+  - [snmptest](http://www.net-snmp.org/docs/man/snmptest.html) - Communicates with a network entity using SNMP requests.
+  - [snmpusm](http://www.net-snmp.org/docs/man/snmpusm.html) - Manipulates the SNMPv3 User-based-security user table.
+  - [snmpvacm](http://www.net-snmp.org/docs/man/snmpvacm.html) - Manipulates the SNMPv3 View-based-access-control-module configuration tables.
+  - [snmpdf](http://www.net-snmp.org/docs/man/snmpdf.html) - Displays disk information like the unix df tool using information collected from SNMP.
+- [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code.
 - [SNMP4JCLT](https://www.agentpp.com/tools/snmp4jclt.html) - Use the SNMP4J Command Line Tool (CLT) to send SNMPv1/v2c/v3 requests and traps to a target with IPv4 or v6 based UDP, TCP, or TLSv1,2 transport (`Commercial`).
 - [libsmi tools](https://www.ibr.cs.tu-bs.de/projects/libsmi/) - Applications built on top of libsmi and an sh/awk script that are integrated with the libsmi distribution.
   - [smilint](https://www.ibr.cs.tu-bs.de/projects/libsmi/smilint.html) - This is used to check MIB or PIB modules for syntax errors and semantics at some degree. SMIv1/v2 style MIB modules as well as SPPI PIB modules are supported.
+  - [smidump](https://www.ibr.cs.tu-bs.de/projects/libsmi/smidump.html) - This is a MIB/PIB compiler. It allows to dump the contents of a module in various formats: SMIv1, SMIv2, SMIng, SPPI, Import Trees, Type Definition Trees, OID Node Trees, MOSY Style, and CORBA IDL definitions according to the JIDM Specs, and others.
+  - [smidiff](https://www.ibr.cs.tu-bs.de/projects/libsmi/smidiff.html) - This is a tool that parses two revisions of a MIB module and analyzes the modifications from the old to the new revision.
+  - [smiquery](https://www.ibr.cs.tu-bs.de/projects/libsmi/smiquery.html) - This is a MIB/PIB query front end. It can be used to query single items from the command line.
+  - [smistrip](https://www.ibr.cs.tu-bs.de/projects/libsmi/smistrip.html) - This is a simple shell/awk script that allows to extract MIB and PIB modules from documents, such as RFCs or Internet Drafts.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
