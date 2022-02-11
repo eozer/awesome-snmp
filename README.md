@@ -45,7 +45,16 @@ _Helpful to write SNMP applications._
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
 
 ### PHP
+
 ### Python
+- [pysnmp](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+- [pysmi](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+- [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
+- [puresnmp](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
+- [snimpy](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
+- [python-netsnmpagent](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
+- [hnmp](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
+
 ### Ruby
 ### Rust
 
