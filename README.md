@@ -91,7 +91,7 @@ _You use these to work with SNMP easier._
 - [snmpsim](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 - [snmpfwd](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
 - [snmpwn](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
-
+- [trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
@@ -140,6 +140,7 @@ in the SNMP User-based Security Model.
 _Items that belong on the list but difficult to classify._
 
 - [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+- [hsnodgrass/snmp_mib_archive](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
 
 **[⬆ back to top](#contents)**
 
