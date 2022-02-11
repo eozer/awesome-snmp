@@ -58,7 +58,9 @@ _Helpful to write SNMP applications._
 - [hnmp](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 
 ### Ruby
+
 ### Rust
+- [snmp-parser](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
 
 **[⬆ back to top](#contents)**
 
