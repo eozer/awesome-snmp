@@ -135,6 +135,8 @@ in the SNMP User-based Security Model.
 ## Miscellaneous
 _Items that belong on the list but difficult to classify._
 
+- [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+
 **[⬆ back to top](#contents)**
 
 ## Contributing
