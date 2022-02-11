@@ -88,6 +88,10 @@ _You use these to work with SNMP easier._
   - [smidiff](https://www.ibr.cs.tu-bs.de/projects/libsmi/smidiff.html) - This is a tool that parses two revisions of a MIB module and analyzes the modifications from the old to the new revision.
   - [smiquery](https://www.ibr.cs.tu-bs.de/projects/libsmi/smiquery.html) - This is a MIB/PIB query front end. It can be used to query single items from the command line.
   - [smistrip](https://www.ibr.cs.tu-bs.de/projects/libsmi/smistrip.html) - This is a simple shell/awk script that allows to extract MIB and PIB modules from documents, such as RFCs or Internet Drafts.
+- [snmpsim](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+- [snmpfwd](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
+- [snmpwn](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
