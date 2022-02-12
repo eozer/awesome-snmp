@@ -14,6 +14,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 - [Publications](#publications)
 - [Miscellaneous](#miscellaneous)
 
+
 ## Libraries
 _Helpful to write SNMP applications._
 
@@ -65,8 +66,10 @@ _Helpful to write SNMP applications._
 ### Rust
 - [snmp-parser](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
 - [davedufresne/modern_snmp](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp_mp (SNMPv3 Message Processing) and snmp_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
+- [Svedrin/sunt](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
 **[⬆ back to top](#contents)**
+
 
 ## Tools
 _You use these to work with SNMP easier._
@@ -111,6 +114,7 @@ _You use these to work with SNMP easier._
 - [ireasoning/MIB Browser](http://ireasoning.com/mibbrowser.shtml) - This tool allows users to load standard, proprietary MIBs, and even some mal-formed MIBs. It also allows them to issue SNMP requests to retrieve agent's data, or make changes to the agent. Free for personal use.
 
 **[⬆ back to top](#contents)**
+
 
 ## Publications
 _How-to's, tutorials, blog posts, documentation and books._
