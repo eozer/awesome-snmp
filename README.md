@@ -64,6 +64,7 @@ _Helpful to write SNMP applications._
 
 ### Rust
 - [snmp-parser](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
+- [davedufresne/modern_snmp](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp_mp (SNMPv3 Message Processing) and snmp_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 
 **[⬆ back to top](#contents)**
 
