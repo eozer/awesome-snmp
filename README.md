@@ -119,6 +119,10 @@ _You use these to work with SNMP easier._
 ## Publications
 _How-to's, tutorials, blog posts, documentation and books._
 
+### Books
+- [Mauro, D. and Schmidt, K., 2005. Essential SNMP: Help for System and Network Administrators. " O'Reilly Media, Inc.".](https://www.amazon.com/Essential-SNMP-System-Network-Administrators-ebook/dp/B0043EWUZ2) - Essential SNMP explores both commercial and open source packages, and elements like OIDs, MIBs, community strings, and traps are covered in depth. The book contains five new chapters and various updates throughout
+- [Perkins, D. and McGinnis, E., 1997. Understanding SNMP MIBs (p. 528). Englewood Cliffs: Prentice Hall PTR.](https://www.amazon.com/Understanding-SNMP-MIBs-David-Perkins/dp/0134377087) - The first complete, practical insider's guide to writing SNMP MIBs.
+
 ### RFCs
 - [rfc1098](https://tools.ietf.org/rfc/rfc1098.txt) - A Simple Network Management Protocol (version 1).
 - [rfc1155](https://tools.ietf.org/rfc/rfc1155.txt) - Structure and Identification of Management Information.
@@ -146,6 +150,9 @@ in the SNMP User-based Security Model.
 - [rfc5591](https://www.rfc-editor.org/rfc/rfc5591.txt) - Transport Subsystem for the Simple Network Management Protocol (SNMP).
 - [rfc5592](https://www.rfc-editor.org/rfc/rfc5592.txt) - Secure Shell Transport Model for the Simple Network Management Protocol (SNMP).
 - [rfc7630](https://www.rfc-editor.org/rfc/rfc7630.txt) - HMAC-SHA-2 Authentication Protocols in the User-based Security Model (USM) for SNMPv3.
+
+### Tutorials
+- [net-snmp tutorials](http://www.net-snmp.org/wiki/index.php/Tutorials) - This Wiki page contains various tutorials ranging from the basics of SNMP protocol to implementation of SNMP applications and agents using net-snmp library.
 
 **[⬆ back to top](#contents)**
 
