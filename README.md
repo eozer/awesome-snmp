@@ -29,6 +29,9 @@ _Helpful to write SNMP applications._
 - [sharpSNMP](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
 - [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
+### Erlang
+- [Erlang/OTP SNMP](https://www.erlang.org/doc/apps/snmp/users_guide.html) - SNMP development is included as a component of the Erlang/Open Telecom Platform development environment.
+
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 - [sleepinggenius2/gosmi)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
