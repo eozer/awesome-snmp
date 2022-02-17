@@ -87,14 +87,23 @@ _You use these to work with SNMP easier._
   - [snmpwalk](http://www.net-snmp.org/docs/man/snmpwalk.html) - Retrieves a subtree of management values using SNMP GETNEXT requests.
   - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - Retrieves a subtree of management values using SNMP GETBULK requests.
   - [snmpset](http://www.net-snmp.org/docs/man/snmpset.html) - Communicates with a network entity using SNMP SET requests.
-  - [snmptrap](http://www.net-snmp.org/docs/man/snmptrap.html) - Sends SNMP TRAP or INFORM notification messages.
-  - [snmpd](http://www.net-snmp.org/docs/man/snmpd.html) - An SNMP agent that responds to SNMP requests for a given host.
-  - [snmptrapd](http://www.net-snmp.org/docs/man/snmptrapd.html) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them.
   - [snmptest](http://www.net-snmp.org/docs/man/snmptest.html) - Communicates with a network entity using SNMP requests.
+  - [snmptable](https://net-snmp.sourceforge.io/docs/man/snmptable.html) - Retrieve an SNMP table and display it in tabular form.
+  - [snmpdelta](https://net-snmp.sourceforge.io/docs/man/snmpdelta.html) - Monitor delta differences in SNMP Counter values.
   - [snmpusm](http://www.net-snmp.org/docs/man/snmpusm.html) - Manipulates the SNMPv3 User-based-security user table.
   - [snmpvacm](http://www.net-snmp.org/docs/man/snmpvacm.html) - Manipulates the SNMPv3 View-based-access-control-module configuration tables.
+  - [snmpstatus](https://net-snmp.sourceforge.io/docs/man/snmpstatus.html) - Retrieves a fixed set of management information from a network entity
+  - [snmpnetstat](https://net-snmp.sourceforge.io/docs/man/snmpnetstat.html) - Display networking status and configuration information from a network entity via SNMP.
   - [snmpdf](http://www.net-snmp.org/docs/man/snmpdf.html) - Displays disk information like the unix df tool using information collected from SNMP.
-- [mib2c](http://www.net-snmp.org/) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code.
+  - [snmptrap](http://www.net-snmp.org/docs/man/snmptrap.html) - Sends SNMP TRAP or INFORM notification messages.
+  - [snmptrapd](http://www.net-snmp.org/docs/man/snmptrapd.html) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them.
+  - [traptoemail](https://net-snmp.sourceforge.io/docs/man/traptoemail.html) - This an snmptrapd handler script to convert snmp traps into emails.
+  - [net-snmp-config](https://net-snmp.sourceforge.io/docs/man/net-snmp-config.html) - Returns information about installed net-snmp libraries and binaries.
+  - [snmpconf](https://net-snmp.sourceforge.io/docs/man/snmpconf.html) - Creates and modifies SNMP configuration files.
+  - [fixproc](https://net-snmp.sourceforge.io/docs/man/fixproc.html) - Fixes a process by performing the specified action.
+  - [snmpd](http://www.net-snmp.org/docs/man/snmpd.html) - An SNMP agent that responds to SNMP requests for a given host.
+  - [mib2c](https://net-snmp.sourceforge.io/docs/man/mib2c.html) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code.
+  - [mib2c-update](https://net-snmp.sourceforge.io/docs/man/mib2c-update.html) - This a script to merge custom code into updated mib2c code.
 - [SNMP4JCLT](https://www.agentpp.com/tools/snmp4jclt.html) - Use the SNMP4J Command Line Tool (CLT) to send SNMPv1/v2c/v3 requests and traps to a target with IPv4 or v6 based UDP, TCP, or TLSv1,2 transport (`Commercial`).
 - [libsmi tools](https://www.ibr.cs.tu-bs.de/projects/libsmi/) - Applications built on top of libsmi and an sh/awk script that are integrated with the libsmi distribution.
   - [smilint](https://www.ibr.cs.tu-bs.de/projects/libsmi/smilint.html) - This is used to check MIB or PIB modules for syntax errors and semantics at some degree. SMIv1/v2 style MIB modules as well as SPPI PIB modules are supported.
