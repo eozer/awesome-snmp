@@ -10,8 +10,23 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ## Contents
 - [Libraries](#libraries)
+  - [C/C++](#cc)
+  - [C#](#c)
+  - [Erlang](#erlang)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
 - [Tools](#tools)
+  - [CLIs](#clis)
+  - [GUIs](#guis)
 - [Publications](#publications)
+  - [Books](#books)
+  - [RFCs](#rfcs)
+  - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
 
 
