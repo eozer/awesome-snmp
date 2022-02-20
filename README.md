@@ -125,6 +125,7 @@ _You use these to work with SNMP easier._
 - [sharpsnmp/SNMP Pro](https://www.sharpsnmp.com/) - A family of .NET based SNMP products, including the commercial MIB Compiler, MIB Assembly, and the open source Library.
 - [paessler/snmptester](https://www.paessler.com/tools/snmptester) - This tool enables you to debug SNMP activities to find communication and/or data issues in SNMP monitoring configurations. Windows.
 - [ireasoning/MIB Browser](http://ireasoning.com/mibbrowser.shtml) - This tool allows users to load standard, proprietary MIBs, and even some mal-formed MIBs. It also allows them to issue SNMP requests to retrieve agent's data, or make changes to the agent. Free for personal use.
+- [Visual SNMP](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
 
 **[⬆ back to top](#contents)**
 
