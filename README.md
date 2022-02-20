@@ -111,6 +111,7 @@ _You use these to work with SNMP easier._
   - [snmpnetstat](https://net-snmp.sourceforge.io/docs/man/snmpnetstat.html) - Display networking status and configuration information from a network entity via SNMP.
   - [snmpdf](http://www.net-snmp.org/docs/man/snmpdf.html) - Displays disk information like the unix df tool using information collected from SNMP.
   - [snmptrap](http://www.net-snmp.org/docs/man/snmptrap.html) - Sends SNMP TRAP or INFORM notification messages.
+  - [snmpinform](http://www.net-snmp.org/docs/man/snmptrap.html) - Send INFORM notification messages. snmpinform command is functionally the same as snmptrap -Ci.
   - [snmptrapd](http://www.net-snmp.org/docs/man/snmptrapd.html) - An SNMP daemon that listens for SNMP TRAPs or INFORMs and logs or acts upon them.
   - [traptoemail](https://net-snmp.sourceforge.io/docs/man/traptoemail.html) - This an snmptrapd handler script to convert snmp traps into emails.
   - [net-snmp-config](https://net-snmp.sourceforge.io/docs/man/net-snmp-config.html) - Returns information about installed net-snmp libraries and binaries.
