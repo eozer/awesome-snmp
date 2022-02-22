@@ -26,8 +26,8 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
   - [Books](#books)
   - [RFCs](#rfcs)
   - [Tutorials](#tutorials)
+- [MIB repositories](#mib-repositories)
 - [Miscellaneous](#miscellaneous)
-
 
 ## Libraries
 _Helpful to write SNMP applications._
@@ -192,14 +192,18 @@ in the SNMP User-based Security Model.
 
 **[⬆ back to top](#contents)**
 
+## MIB repositories
+- [hsnodgrass/snmp_mib_archive](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
+- [kcsinclair/mibs](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
+- [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
+- [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
+- [michaelfmcnamara.com](https://blog.michaelfmcnamara.com/mibs/) - Hand-curated list of MIBs by Michael McNamara.
+
+**[⬆ back to top](#contents)**
 ## Miscellaneous
 _Items that belong on the list but difficult to classify._
 
-- [OID info](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
 - [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
-- [hsnodgrass/snmp_mib_archive](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
-- [kcsinclair/mibs](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
-- [muonics/Online MIB validator](http://www.muonics.com/Tools/smicheck.php) - Free online MIB/PIB Validator based on MIB Smithy SDK.
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
 
