@@ -136,7 +136,7 @@ _You use these to work with SNMP easier._
 - [SNMP Trap Translator](http://www.snmptt.org/) - SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl for use with the Net-SNMP / UCD-SNMP snmptrapd program (www.net-snmp.org).
   - [snmptt](http://www.snmptt.org/docs/snmptt.shtml) - SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl for use with the Net-SNMP / UCD-SNMP snmptrapd program (www.net-snmp.org). SNMPTT supports Linux, Unix and Windows.
   - [snmpttconvert](http://www.snmptt.org/docs/snmpttconvert.shtml) - Some vendors provide a file that can be imported into HP Openview using a HP Openview utility. snmpttconvert is a simple Perl script which will convert one of these files into the format used by snmptt.
-  - [snmpttconvertmib](http://www.snmptt.org/docs/temp/snmpttconvertmib.shtml) - snmpttconvertmib is a Perl script which will read a MIB file and convert the TRAP-TYPE (v1) or NOTIFICATION-TYPE (v2) definitions into a configuration file readable by snmptt.
+  - [snmpttconvertmib](http://www.snmptt.org/docs/temp/snmpttconvertmib.shtml) - The snmpttconvertmib is a Perl script which will read a MIB file and convert the TRAP-TYPE (v1) or NOTIFICATION-TYPE (v2) definitions into a configuration file readable by snmptt.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
