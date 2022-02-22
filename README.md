@@ -65,7 +65,8 @@ _Helpful to write SNMP applications._
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
 
 ### PHP
-- [SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
+- [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
+- [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
 
 ### Python
 - [pysnmp](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
