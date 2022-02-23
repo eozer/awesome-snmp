@@ -137,6 +137,8 @@ _You use these to work with SNMP easier._
   - [snmptt](http://www.snmptt.org/docs/snmptt.shtml) - SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl for use with the Net-SNMP / UCD-SNMP snmptrapd program (www.net-snmp.org). SNMPTT supports Linux, Unix and Windows.
   - [snmpttconvert](http://www.snmptt.org/docs/snmpttconvert.shtml) - Some vendors provide a file that can be imported into HP Openview using a HP Openview utility. snmpttconvert is a simple Perl script which will convert one of these files into the format used by snmptt.
   - [snmpttconvertmib](http://www.snmptt.org/docs/temp/snmpttconvertmib.shtml) - The snmpttconvertmib is a Perl script which will read a MIB file and convert the TRAP-TYPE (v1) or NOTIFICATION-TYPE (v2) definitions into a configuration file readable by snmptt.
+- [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
@@ -212,7 +214,6 @@ in the SNMP User-based Security Model.
 ## Miscellaneous
 _Items that belong on the list but difficult to classify._
 
-- [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
 
