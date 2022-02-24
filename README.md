@@ -15,6 +15,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -63,6 +64,9 @@ _Helpful to write SNMP applications._
 - [node-snmp-native](https://github.com/calmh/node-snmp-native) -  Native JavaScript SNMP library for Node.js.
 - [node-snmpjs](https://github.com/joyent/node-snmpjs) - This package provides a toolkit for SNMP agents and management applications in Node.js.
 - [snmp-node](https://github.com/neias/snmp-node) - Native JavaScript SNMP library for Node.js.
+
+### Lua
+- [luasnmp](https://github.com/hleuwer/luasnmp) - Lua binding to net-snmp library.
 
 ### PHP
 - [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
