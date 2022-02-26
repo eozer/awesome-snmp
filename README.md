@@ -27,6 +27,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
   - [Books](#books)
   - [RFCs](#rfcs)
   - [Tutorials](#tutorials)
+- [Public servers](#public-servers)
 - [MIB repositories](#mib-repositories)
 - [Miscellaneous](#miscellaneous)
 
@@ -218,6 +219,9 @@ in the SNMP User-based Security Model.
 **[⬆ back to top](#contents)**
 
 
+## Public servers
+- [snmp.ireasoning.com](http://ireasoning.com/pubtest.php) - Free public an SNMP agent for testing purpose.
+
 **[⬆ back to top](#contents)**
 
 
@@ -226,7 +230,6 @@ _Items that belong on the list but difficult to classify._
 
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
-- [snmp.ireasoning.com](http://ireasoning.com/pubtest.php) - Free public an SNMP agent for testing purpose.
 
 **[⬆ back to top](#contents)**
 
