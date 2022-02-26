@@ -72,6 +72,7 @@ _Helpful to write SNMP applications._
 ### PHP
 - [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
 - [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
+- [opensolutions/OSS_SNMP](https://github.com/opensolutions/OSS_SNMP) - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
 
 ### Python
 - [pysnmp](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
