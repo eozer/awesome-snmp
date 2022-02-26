@@ -155,7 +155,6 @@ _You use these to work with SNMP easier._
 - [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - Free SNMP Agent Simulator Java based application that can simulate SNMPv1/v2c/v3 agents.
 - [Visual SNMP](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
 - [muonics/Online MIB validator](http://www.muonics.com/Tools/smicheck.php) - Free online MIB/PIB Validator based on MIB Smithy SDK.
-- 
 
 **[⬆ back to top](#contents)**
 
@@ -204,6 +203,12 @@ in the SNMP User-based Security Model.
 
 **[⬆ back to top](#contents)**
 
+## Public servers
+- [snmp.ireasoning.com](http://ireasoning.com/pubtest.php) - Free public an SNMP agent for testing purpose.
+
+**[⬆ back to top](#contents)**
+
+
 ## MIB repositories
 - [hsnodgrass/snmp_mib_archive](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
 - [kcsinclair/mibs](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
@@ -217,12 +222,6 @@ in the SNMP User-based Security Model.
   - [OnLineMIB/Extreme](http://www.snmplink.org/OnLineMIB/Extreme/) - Extreme.
   - [OnLineMIB/Brocade](http://www.snmplink.org/OnLineMIB/Brocade/) - Brocade.
 - [oidview.com/mibs](http://www.oidview.com/mibs/detail.html) - This repository contains over 7000 unique MIBs from various vendors.
-
-**[⬆ back to top](#contents)**
-
-
-## Public servers
-- [snmp.ireasoning.com](http://ireasoning.com/pubtest.php) - Free public an SNMP agent for testing purpose.
 
 **[⬆ back to top](#contents)**
 
