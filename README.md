@@ -146,6 +146,7 @@ _You use these to work with SNMP easier._
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 - [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
 - [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
+- [hatlord/snmpwn](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
