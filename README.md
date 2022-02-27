@@ -159,6 +159,7 @@ _You use these to work with SNMP easier._
 - [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - Free SNMP Agent Simulator Java based application that can simulate SNMPv1/v2c/v3 agents.
 - [Visual SNMP](https://github.com/sisraell/VisualSNMP) - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
 - [muonics/Online MIB validator](http://www.muonics.com/Tools/smicheck.php) - Free online MIB/PIB Validator based on MIB Smithy SDK.
+- [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 
 **[⬆ back to top](#contents)**
 
