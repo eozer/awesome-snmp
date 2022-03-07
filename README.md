@@ -1,7 +1,6 @@
 <!--lint disable double-link-->
 # Awesome SNMP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!-- TODO: Enable the badge when the repository is mature enough, older than 30 days. -->
-<!-- [![Awesome lint](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml) -->
+[![Awesome lint](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml)
 
 Simple Network Management Protocol (SNMP) is an Internet Standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behaviour.
 
