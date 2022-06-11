@@ -2,7 +2,7 @@
 # Awesome SNMP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome lint](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml)
 
-Simple Network Management Protocol (SNMP) is an Internet Standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behaviour.
+[Simple Network Management Protocol (SNMP)](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) is an Internet Standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behaviour.
 
 This is a curated list of awesome SNMP libraries, tools, and other resources. Contributions are welcome!
 
