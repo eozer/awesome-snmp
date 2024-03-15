@@ -100,7 +100,7 @@ _Helpful to write SNMP applications._
 - [davedufresne/modern_snmp](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp_mp (SNMPv3 Message Processing) and snmp_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 - [Svedrin/sunt](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 
 ## Tools
@@ -170,7 +170,7 @@ _You use these to work with SNMP easier._
 - [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 - [Unbrowse SNMP](https://www.unleashnetworks.com/products/unbrowse-snmp.html) - Unbrowse SNMP is a tool that helps to compile cryptic MIB files into an easy GUI view, retrieve and set MIB variables on devices, import snmpwalk dumps, receive traps, chart counters, and much more.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 
 ## Publications
@@ -215,12 +215,12 @@ in the SNMP User-based Security Model.
 ### Tutorials
 - [net-snmp tutorials](http://www.net-snmp.org/wiki/index.php/Tutorials) - This Wiki page contains various tutorials ranging from the basics of SNMP protocol to implementation of SNMP applications and agents using net-snmp library.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 ## Public servers
 - [snmp.ireasoning.com](http://ireasoning.com/pubtest.php) - Free public an SNMP agent for testing purpose.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 
 ## MIB repositories
@@ -237,7 +237,7 @@ in the SNMP User-based Security Model.
   - [OnLineMIB/Brocade](http://www.snmplink.org/OnLineMIB/Brocade/) - Brocade.
 - [oidview.com/mibs](http://www.oidview.com/mibs/detail.html) - This repository contains over 7000 unique MIBs from various vendors.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 
 ## Miscellaneous
@@ -246,7 +246,7 @@ _Items that belong on the list but difficult to classify._
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
 
-**[⬆ back to top](#contents)**
+__[⬆ back to top](#contents)__
 
 ## Contributing
 Please take a quick look at the [contribution guidelines](contributing.md) first. Thank you to all contributors.
