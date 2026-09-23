@@ -79,7 +79,7 @@ _Helpful to write SNMP applications._
   - This project is derived from [the original repo](https://github.com/etingof/pysnmp).
 - [pysmi](https://github.com/lextudio/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
   - This project is derived from [the original repo](https://github.com/etingof/pysmi).
-- [gufo_snmp](https://github.com/gufolabs/gufo_snmp) - The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and ___extremely___ fast, especially when querying many devices. ![GitHub last commit](https://img.shields.io/github/last-commit/gufolabs/gufo_snmp)
+- [gufo_snmp](https://github.com/gufolabs/gufo_snmp) - The accelerated Python SNMP client library supporting SNMPv1/v2c/v3 in both async and synchronous modes. It provides a clean Python API with a high-performance BER parser and socket I/O implemented in Rust with a PyO3 wrapper. Supports SNMPv3 authentication with MD5, SHA-1, SHA-224, SHA-256, SHA-384 and SHA-512, and privacy with DES, AES-128, AES-192 and AES-256. Easy to use and ___extremely___ fast, especially when querying many devices. ![GitHub last commit](https://img.shields.io/github/last-commit/gufolabs/gufo_snmp)
 - [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default. ![GitHub last commit](https://img.shields.io/github/last-commit/net-snmp/net-snmp)
 - [easysnmp](https://github.com/easysnmp/easysnmp) - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 - [puresnmp](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
@@ -154,6 +154,7 @@ _You use these to work with SNMP easier._
 - [hatlord/snmpwn](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
 - [zabbix-tools/mib2zabbix](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
 - [OIDrage](https://github.com/patrickscottbest/OIDrage) - A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.
+- [gufo-snmp](https://github.com/gufolabs/gufo_snmp) - A command-line SNMP client supporting SNMPv1/v2c/v3, with GET, GETNEXT and GETBULK operations. Provides a simple interface for querying SNMP-enabled devices from the command line.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
