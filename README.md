@@ -168,6 +168,7 @@ _You use these to work with SNMP easier._
 - [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 - [Unbrowse SNMP](https://www.unleashnetworks.com/products/unbrowse-snmp.html) - Unbrowse SNMP is a tool that helps to compile cryptic MIB files into an easy GUI view, retrieve and set MIB variables on devices, import snmpwalk dumps, receive traps, chart counters, and much more.
 - [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open source web database IDE with a read-only SNMPv2c connection: browse the object tree from bundled MIB modules and run get, next, walk and table reads against an agent.
 
 
 __[⬆ back to top](#contents)__
