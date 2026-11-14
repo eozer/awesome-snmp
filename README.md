@@ -168,6 +168,7 @@ _You use these to work with SNMP easier._
 - [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 - [Unbrowse SNMP](https://www.unleashnetworks.com/products/unbrowse-snmp.html) - Unbrowse SNMP is a tool that helps to compile cryptic MIB files into an easy GUI view, retrieve and set MIB variables on devices, import snmpwalk dumps, receive traps, chart counters, and much more.
 - [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
+- [SolidPing](https://github.com/fclairamb/solidping) - Open source, self-hostable uptime monitoring with an SNMP check (v1, v2c and v3 with auth/priv, built on gosnmp) that GETs an OID and alerts when the value does not match (equals, contains, greater/less than) or the agent stops answering. Web UI, multi-region and private-network probes, status pages. AGPL-3.0.
 
 
 __[⬆ back to top](#contents)__
